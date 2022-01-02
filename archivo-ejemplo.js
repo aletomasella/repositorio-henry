@@ -1,3 +1,5 @@
-hola como estas
-todo bien y vos
-si, todo bien che por suerte.
+var  saludo = 'hola como estas';
+var amigos = ['Carlos', 'Augusto', 'Pablo', 'Nicolas']
+function unasuma = (nro1,nro2) {
+	return nro1 + nro2
+}
